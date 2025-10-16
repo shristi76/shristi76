@@ -2,7 +2,7 @@
 
 🚀 **B.Tech 3rd Year | Future Software Developer | AI Explorer**  
 💡 Passionate about **Generative AI & Full-Stack Development**  
-🌱 Currently learning **AI-powered applications & advanced backend systems**  
+🌱 Currently learning **Building AI-powered applications & advanced backend systems**  
 
 ---
 
