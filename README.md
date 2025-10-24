@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Shristi**  
 
 🚀 **B.Tech 3rd Year | Future Software Developer | AI Explorer**  
-💡 Passionate about **Generative AI & Full-Stack Development**  
+💡 Passionate about **Generative AI & Backend Development**  
 🌱 Currently learning **Building AI-powered applications & advanced backend systems**  
 
 ---
