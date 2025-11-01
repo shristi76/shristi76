@@ -35,7 +35,15 @@
 <img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="300"/>
 <img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="300"/>
 <img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="300"/>
-<img src="https://github.com/user-attachments/assets/54e6d41b-dd69-475b-849a-08231c5087d9" width="300"/>
+<img width="250" alt="CodeChefBadge (2)" src="https://github.com/user-attachments/assets/cb7105c6-9847-4797-94a1-310497d5bac1" />
+<img width="230" alt="Screenshot 2025-11-01 101408" src="https://github.com/user-attachments/assets/f1ac39e3-6907-4099-b3d2-3c04ce38481f" />
+<img width="300" alt="Screenshot 2025-11-01 104205" src="https://github.com/user-attachments/assets/f80a38af-4d35-4187-b900-559fbb8997bd" />
+<img width="200" alt="Screenshot 2025-11-01 104501" src="https://github.com/user-attachments/assets/f0a6d638-0244-49e3-987a-740edf198eab" />
+
+
+
+
+
 
 <img src="https://github.com/user-attachments/assets/82c730e2-88c6-4fc4-8f54-36bfdaf14535" width="250"/>
  
