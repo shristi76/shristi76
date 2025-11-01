@@ -33,10 +33,9 @@
 *"Coding is like magic — and AI is the spell that makes ideas come alive!"* 
 ---
 ### **Milestones I achieved**
-
-<img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="300"/>
-<img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="300"/>
-<img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="300"/>
+<img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="250"/>
+<img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="250"/>
+<img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="250"/>
 
 
 ---
