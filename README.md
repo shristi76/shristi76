@@ -54,13 +54,9 @@
 
 ---
 
-# 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi76&theme=radical&hide_border=true"/>
-</p>
 
----
+
 
 # 🔀 Open Source Contributions
 
