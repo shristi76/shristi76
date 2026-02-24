@@ -82,7 +82,7 @@
 
 ---
 
-# 🏅 Competitive Programming
+
 
 <p align="center">
 <img width="220" src="https://github.com/user-attachments/assets/cb7105c6-9847-4797-94a1-310497d5bac1" />
@@ -92,7 +92,7 @@
 
 ---
 
-# ✨ Philosophy
+# ✨ I believe
 
 <p align="center">
   <i>"Code is the bridge between ideas and reality."</i>
