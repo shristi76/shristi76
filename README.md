@@ -88,6 +88,17 @@
 
 ---
 # Programming Skill
+
+# (overall)
+
+
+---
+
+<img width="1222" height="540" alt="Screenshot 2026-02-24 172827" src="https://github.com/user-attachments/assets/34471d9a-1236-492c-8604-cbf5c37fcc62" />
+
+---
+
+# (Leetcode)
 <img width="1296" height="554" alt="Screenshot 2026-02-24 163906" src="https://github.com/user-attachments/assets/d7ae8dab-c126-4da9-b8f4-92b5d38f23eb" />
 
 
