@@ -53,13 +53,13 @@
 ## 📈 GitHub Activity
 
 ### 🔥 GitHub Stats
-![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shristi76&show_icons=true&theme=radical)
 
 ### 🚀 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=shristi76&theme=radical)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shristi76&layout=compact&theme=radical)
 
 ---
 
