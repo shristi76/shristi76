@@ -1,93 +1,99 @@
-# 👋 Hi, I'm Shristi
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Shristi</h1>
+<h3 align="center">🚀 Software Developer | AI Enthusiast | Backend Explorer</h3>
 
-🎓 B.Tech (3rd Year) | Software Developer | AI Enthusiast  
-🚀 Focused on Scalable Backend Systems & AI-powered Applications  
-💡 Passionate about Generative AI, System Design & Modern Web Technologies  
-🌱 Currently exploring Advanced Backend Architectures & Distributed Systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Future+Software+Developer;AI+Explorer;Backend+Systems+Builder" />
+</p>
 
 ---
 
-## 💼 Technical Skills
+## 💫 About Me
+
+🎓 B.Tech (3rd Year)  
+🚀 Building scalable backend systems & AI-powered applications  
+💡 Passionate about Generative AI & System Design  
+🌱 Exploring Distributed Systems & Advanced Architectures  
+
+---
+
+# 💼 Tech Stack
 
 ### 🧑‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
 ---
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux" />
+</p>
 
 ---
 
-### 🛠 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+### 🛠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ---
 
-### 🗄 Databases & Caching
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄 Databases & Cache
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
 
 ---
 
-### 🤖 AI & Data
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4088?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🤖 AI & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
-
-### 🚀 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=shristi76&theme=radical)
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shristi76&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-## 🏆 Contributions & Pull Requests
+# 🔀 Open Source Contributions
 
-## 🔀 Merged Pull Requests
-
-[Click here to view my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashristi76+is%3Amerged)
-
-
-
-
----
-
-## 🏅 Achievements & Milestones
-
-<img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="250"/>
-<img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="250"/>
-<img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="250"/>
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ashristi76+is%3Amerged">
+    <img src="https://img.shields.io/badge/View-Merged%20Pull%20Requests-ff69b4?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🏆 Competitive Programming & Certifications
+# 🏆 Achievements
 
-<img width="250" src="https://github.com/user-attachments/assets/cb7105c6-9847-4797-94a1-310497d5bac1" />
-<img width="230" src="https://github.com/user-attachments/assets/f1ac39e3-6907-4099-b3d2-3c04ce38481f" />
-<img width="260" src="https://github.com/user-attachments/assets/f80a38af-4d35-4187-b900-559fbb8997bd" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="220"/>
+<img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="220"/>
+<img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="220"/>
+</p>
 
 ---
 
-## ✨ Philosophy
+# 🏅 Competitive Programming
 
-> "Code is the bridge between ideas and reality."
+<p align="center">
+<img width="220" src="https://github.com/user-attachments/assets/cb7105c6-9847-4797-94a1-310497d5bac1" />
+<img width="200" src="https://github.com/user-attachments/assets/f1ac39e3-6907-4099-b3d2-3c04ce38481f" />
+<img width="220" src="https://github.com/user-attachments/assets/f80a38af-4d35-4187-b900-559fbb8997bd" />
+</p>
+
+---
+
+# ✨ Philosophy
+
+<p align="center">
+  <i>"Code is the bridge between ideas and reality."</i>
+</p>
