@@ -38,7 +38,7 @@
 ---
 
 ### 🤖 AI & Data
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4088?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -52,27 +52,23 @@
 
 ## 📈 GitHub Activity
 
-### 🔥 GitHub Stats
-![Shristi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shristi76&show_icons=true&theme=radical)
 
 ### 🚀 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=shristi76&theme=radical)
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shristi76&layout=compact&theme=radical)
+
 
 
 ---
 
 ## 🏆 Contributions & Pull Requests
 
-https://github-readme-stats.vercel.app/api?username=shristi76&show_icons=true&theme=radical&cache_seconds=86400
+## 🔀 Merged Pull Requests
+
+[Click here to view my merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ashristi76+is%3Amerged)
 
 
-- 🔀 Raised and Successfully Merged Pull Requests  
-- 🧠 Active Contributor to Open Source Projects  
-- 💬 Participated in Code Reviews  
-- 📌 Consistent Commit History & Feature Contributions  
+
 
 ---
 
