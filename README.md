@@ -61,9 +61,13 @@
 ### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shristi76&layout=compact&theme=radical)
 
+
 ---
 
 ## 🏆 Contributions & Pull Requests
+
+https://github-readme-stats.vercel.app/api?username=shristi76&show_icons=true&theme=radical&cache_seconds=86400
+
 
 - 🔀 Raised and Successfully Merged Pull Requests  
 - 🧠 Active Contributor to Open Source Projects  
