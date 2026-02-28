@@ -28,7 +28,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 🗄 Databases & Cache
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
