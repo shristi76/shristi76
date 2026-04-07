@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Developer | AI Enthusiast | Backend Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Future+Software+Developer;AI+Explorer;Backend+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Software+Developer;AI+Explorer;Backend+Systems+Builder" />
 </p>
 
 ---
