@@ -68,29 +68,12 @@
 
 ---
 
-# 🏆 Achievements
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/b368e301-6971-4540-bb92-e39c7bdc21f8" width="220"/>
-<img src="https://github.com/user-attachments/assets/d171b21d-8d8d-4613-9a5e-df22e88acef3" width="220"/>
-<img src="https://github.com/user-attachments/assets/d2a23a83-0e8c-453d-909e-f602100ce0d7" width="220"/>
-</p>
-
----
-
-
-
-<p align="center">
-<img width="125" alt="Screenshot 2025-11-01 104501" src="https://github.com/user-attachments/assets/bff789a1-348e-4afe-bf79-e65d7e1debc6" />
-
-<img width="200" src="https://github.com/user-attachments/assets/f1ac39e3-6907-4099-b3d2-3c04ce38481f" />
-<img width="220" src="https://github.com/user-attachments/assets/f80a38af-4d35-4187-b900-559fbb8997bd" />
-</p>
 
 ---
 # Programming Skill
 
-# (overall)
+
 
 
 ---
@@ -99,8 +82,6 @@
 
 ---
 
-# (Leetcode)
-<img width="1296" height="554" alt="Screenshot 2026-02-24 163906" src="https://github.com/user-attachments/assets/d7ae8dab-c126-4da9-b8f4-92b5d38f23eb" />
 
 
 # ✨ I believe
