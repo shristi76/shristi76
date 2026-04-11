@@ -27,22 +27,24 @@
 ---
 
 ### 🌐 Frontend
+
+
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ---
 
 ### 🛠 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
 
 ### 🗄 Databases & Cache
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 ---
