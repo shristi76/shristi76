@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Software+Developer;AI+Explorer;Backend+Systems+Builder" />
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Sz10UMIrV5KdgiNcLUeMbDpMJVNc8q65/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=google-drive" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
