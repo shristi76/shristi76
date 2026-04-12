@@ -86,7 +86,7 @@
 
 ---
 
-<img width="1343" height="513" alt="Screenshot 2026-04-12 011641" src="https://github.com/user-attachments/assets/3ecc6ef1-1f4e-4e01-ab37-108cbc4d51bb" />
+<img width="1196" height="272" alt="Screenshot 2026-04-12 175344" src="https://github.com/user-attachments/assets/ccde544a-629f-410b-ba7d-e41826fce424" />
 
 ---
 
