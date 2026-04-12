@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Sz10UMIrV5KdgiNcLUeMbDpMJVNc8q65/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/15b_Y_7cOhCZIdd1bni92cSM3yMyDcrGY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
