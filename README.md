@@ -64,8 +64,14 @@
 
 
 
+## 🐛 Issues I've Created
+<p align="center">
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ashristi76">
+    <img src="https://img.shields.io/badge/🐛%20View%20My%20Issues-Click%20Here-yellow?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-
+---
 # 🔀 Open Source Contributions
 
 <p align="center">
@@ -78,7 +84,7 @@
 
 
 
----
+
 # Programming Journey
 
 
