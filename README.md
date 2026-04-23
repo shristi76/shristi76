@@ -1,6 +1,11 @@
 <!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Shristi</h1>
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  , I'm Shristi
+</h1>
 <h3 align="center">🚀 Software Developer | AI Enthusiast | Backend Explorer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Software+Developer;AI+Explorer;Backend+Systems+Builder" />
@@ -10,6 +15,11 @@
   <a href="https://drive.google.com/file/d/15b_Y_7cOhCZIdd1bni92cSM3yMyDcrGY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=google-drive" />
   </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" />
 </p>
 
 ---
