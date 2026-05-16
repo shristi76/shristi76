@@ -11,15 +11,15 @@
 
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=B.Tech+3rd+Year+Student;Software+Developer;AI+Explorer;Backend+Systems+Builder" />
-</p> -->
+</p> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://drive.google.com/file/d/15b_Y_7cOhCZIdd1bni92cSM3yMyDcrGY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=google-drive" />
   </a>
-</p>
+</p> -->
 
 ---
 <p align="center">
