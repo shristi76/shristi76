@@ -89,15 +89,6 @@
 
 ---
 
-## 💫 Programming Journey
-
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/ccde544a-629f-410b-ba7d-e41826fce424" />
-</p>
-
----
-
-
 ## 🏅 Badges & Achievements
 
 <div align="center">
@@ -127,6 +118,17 @@
 </div>
 
 ---
+
+
+## 💫 Programming Journey
+
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/ccde544a-629f-410b-ba7d-e41826fce424" />
+</p>
+
+---
+
+
 
 ## ✨ I Believe
 
