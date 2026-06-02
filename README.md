@@ -97,6 +97,37 @@
 
 ---
 
+
+## 🏅 Badges & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/edef8ba7-acbd-4e91-b707-50c4f5ac1e87" width="150" />
+<br>
+<b>Problem Solving</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/7d829615-86be-414f-9e7b-50ec659d9f28" width="150" />
+<br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/e07d2033-ea05-4967-86d2-bcc08ea1e39c" width="150" />
+<br>
+<b>AWS Cloud 101</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## ✨ I Believe
 
 <p align="center">
