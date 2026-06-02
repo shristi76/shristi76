@@ -98,7 +98,7 @@
 <td align="center">
 <img src="https://github.com/user-attachments/assets/edef8ba7-acbd-4e91-b707-50c4f5ac1e87" width="150" />
 <br>
-<b>Problem Solving</b>
+<b>Gen-AI</b>
 </td>
 
 <td align="center">
