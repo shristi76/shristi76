@@ -128,6 +128,16 @@
 
 ---
 
+# git status👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shristi76&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shristi76&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shristi76)
+
+---
+
 
 
 ## ✨ I Believe
