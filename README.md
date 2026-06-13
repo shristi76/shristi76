@@ -58,7 +58,7 @@
 <tr>
 <td><b>🗄 Databases & Cache</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 </td>
 </tr>
 
