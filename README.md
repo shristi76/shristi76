@@ -25,7 +25,7 @@
 -  B.Tech CSE undergrad
 -  Building scalable backend systems & AI-powered applications
 -  Passionate about Generative AI & System Design
--  Exploring Distributed Systems & Advanced Architectures
+-  Exploring Distributed Systems & Advanced Backend Architectures
 
 ---
 
