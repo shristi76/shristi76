@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td><b>🧑‍💻 Languages</b></td>
+<td><b> Languages</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 </td>
@@ -56,7 +56,7 @@
 </tr>
 
 <tr>
-<td><b>🗄 Databases & Cache</b></td>
+<td><b> Databases & Cache</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 </td>
