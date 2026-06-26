@@ -42,14 +42,14 @@
 </tr>
 
 <tr>
-<td><b>🌐 Frontend</b></td>
+<td><b> Frontend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </td>
 </tr>
 
 <tr>
-<td><b>🛠 Backend</b></td>
+<td><b> Backend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </td>
@@ -63,14 +63,14 @@
 </tr>
 
 <tr>
-<td><b>🐳 DevOps & Infrastructure</b></td>
+<td><b> DevOps & Infrastructure</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux" />
 </td>
 </tr>
 
 <tr>
-<td><b>🔧 Tools</b></td>
+<td><b> Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </td>
