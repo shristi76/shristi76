@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
--  B.Tech CSE undergrad
+-  B.Tech CSE undergrad 2027
 -  Building scalable backend systems & AI-powered applications
 -  Passionate about Generative AI & System Design
 -  Exploring Distributed Systems & Advanced Backend Architectures
