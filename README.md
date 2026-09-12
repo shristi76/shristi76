@@ -65,14 +65,14 @@
 <tr>
 <td><b> DevOps & Infrastructure</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,terraform" />
 </td>
 </tr>
 
 <tr>
 <td><b> Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,azure" />
 </td>
 </tr>
 </table>
